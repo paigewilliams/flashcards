@@ -1,0 +1,23 @@
+/* p {
+  display: none
+} */
+#initially-showing {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
