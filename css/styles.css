@@ -1,23 +1,11 @@
-/* p {
-  display: none
-} */
-#initially-showing {
+#op-hide, #js-hide, #vr-hide  {
   display: none;
 }
 
-.show {
-  display: block;
-}
-
-.hide {
-  display: none;
-}
-
-
-.clickable {
+.click, .click2, .click3 {
   cursor: pointer;
   color: #0088cc;
 }
-.clickable:hover {
+.click:hover, .click2:hover, .click3:hover {
   text-decoration: underline;
 }
