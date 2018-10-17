@@ -1,4 +1,9 @@
-#op-hide, #js-hide, #vr-hide  {
+.flashcard-clicked {
+  background-color: grey;
+}
+
+
+/* #op-hide, #js-hide, #vr-hide  {
   display: none;
 }
 
@@ -8,4 +13,4 @@
 }
 .click:hover, .click2:hover, .click3:hover {
   text-decoration: underline;
-}
+} */
