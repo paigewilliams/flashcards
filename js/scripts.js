@@ -1,6 +1,6 @@
  $(document).ready(function() {
    $(".well").click(function(){
-     $(this)children("p").slideToggle();
+     $(this).children("p").slideToggle();
      $(this).toggleClass("flashcard-clicked");
    });
 

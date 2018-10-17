@@ -1,5 +1,9 @@
+.body {
+  display: none;
+}
+
 .flashcard-clicked {
-  background-color: grey;
+  background-color: E6E6E6;
 }
 
 
