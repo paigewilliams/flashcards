@@ -1,3 +1,9 @@
+.title {
+  text-align: center;
+  font-size: 40px;
+}
+
+
 .body {
   display: none;
 }
@@ -5,6 +11,7 @@
 .flashcard-clicked {
   background-color: E6E6E6;
 }
+
 
 
 /* #op-hide, #js-hide, #vr-hide  {
